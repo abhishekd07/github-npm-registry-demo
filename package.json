@@ -6,6 +6,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@abhishekd07"
   },
+  "repository": "git://github.com/abhishekd07/github-npm-registry-demo.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
