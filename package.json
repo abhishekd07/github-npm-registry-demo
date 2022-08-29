@@ -1,10 +1,10 @@
 {
-  "name": "github-npm-registry-demo",
+  "name": "@abhishekd07/github-npm-registry-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@abhishekd07"
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": "git://github.com/abhishekd07/github-npm-registry-demo.git",
   "scripts": {
